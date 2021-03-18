@@ -13,4 +13,4 @@ desde 2017 a 2019. La precision conseguida por el modelo es de un 83% en promedi
 <h2>MODELO 2</h2>
 Este modelo crea una red neuronal multicapas utilizando los mismos parametros de primer y segundo parcial para realizar la predicción. La precisión conseguida es muy similar a la obtenida en el Modelo 1.
 >Repositorio creado para realizar el trabajo práctico de IA 2021 de FIUNA.
-![image](https://user-images.githubusercontent.com/72457045/111653412-a8411f00-87e6-11eb-850e-81c62e3a83f4.png)
+
